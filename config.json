@@ -1,0 +1,14 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "url": "us-west.minexmr.com:443",
+            "user": "45U2DvaZrmbMn7Gx1VgGsWMaDe7dcTkHiaCDFhdxWjaX3DrFdEU2DQyGw9zfUXtUdfJue5TjUjRLgXQMrkKCZaDj4KF8kpN",
+            "keepalive": true,
+            "tls": true
+        }
+    ]
+}
